@@ -14,6 +14,4 @@ Groq의 LLaMA 4 Scout LLM을 활용하여,
 | 🤖 AI 모델 | Groq의 Meta LLaMA 4 Scout               |
 | 🧠 AI 연동 | Spring AI (spring-ai-chat, chat-memory) |
 
-![움직이는 이미지는 용량이 49KB에 불과하지만 놀라울 정도로 고해상도입니다.](attachment:d28b3133-f4aa-487c-a60d-ca51671b7fa6:parrot.svg)
-
-움직이는 이미지는 용량이 49KB에 불과하지만 놀라울 정도로 고해상도입니다.
+![parrot](https://github.com/user-attachments/assets/58654d71-3c01-4fff-92d4-9acb5abb960f)
